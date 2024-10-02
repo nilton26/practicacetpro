@@ -1,0 +1,132 @@
+body
+{
+    background-color:pink;
+    
+    
+    
+    size: 40px;
+}
+   
+h1
+{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);    
+    margin-bottom: 100px;
+}
+
+li
+{
+font-size: 18px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+margin-top: 100px;
+
+}
+p
+{
+  text-align: justify;
+}
+
+img{
+    
+    width: 500px;
+    float: left;
+    margin-right: 40px;
+    margin-left: 200px;
+    border-radius: 30px;
+    border: 10px solid black;
+    margin-bottom: 10px;
+
+    
+    
+
+}
+
+p{
+   
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 200px;
+    margin-right: 50px;
+}
+
+nav li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+
+}
+
+nav >li{
+    float: left;
+}
+
+nav li a:hover{
+    background-color: rgb(250, 9, 9);
+}
+
+nav li ul{
+    display: none;
+    position: absolute;
+    min-width: 14opx;
+}
+
+nav li:hover> ul{
+    display: block;
+}
+
+header
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: 500px;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+.navbar a{
+    text-align: center;
+    font-size: 30px;
+}
+header{
+    background:url(fotos/);
+}
+.img1{
+    margin-top: 300px;
+}
+
+.img2{
+    margin-top:300px;
+    margin-left: 500px;
+    width: 10px;
+    margin-bottom: 300px;
+}
+
+.navbarr{
+        font-size: 500px;
+}
+
+
+.parraf{
+    font-size: 20px;
+}
+.parrafo1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.po{
+    font-size: 30opx;
+}
+
+.mapa{
+    margin-left: 100px;
+    size: 10%;
+}
+.pie-pagina{
+    width: 100px;
+    background-color:black ;
+}
